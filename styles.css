@@ -6,6 +6,10 @@
     padding-bottom: 18px;
     
 }
+th:hover{
+    color: white;
+    background-color:black;
+}
 td:hover{
     color: white;
     background-color:black;
