@@ -1,2 +1,9 @@
 
-/* Your CSS Code here. */
+#total{
+    background-color: rgb(249,249,250);
+    padding: 15px;
+    max-width: 600px;
+    font-weight: bold;
+   padding-left: 124vh;
+   padding-right: 70.5vh;
+}
