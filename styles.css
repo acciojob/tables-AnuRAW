@@ -1,9 +1,12 @@
-
-#total{
+.tfoot{
     background-color: rgb(249,249,250);
-    padding: 15px;
-    max-width: 600px;
-    font-weight: bold;
-   padding-left: 124vh;
-   padding-right: 70.5vh;
+    padding-left: 124vh;
+    padding-top: 18px;
+    padding-right: 29.2rem;
+    padding-bottom: 18px;
+    
+}
+td:hover{
+    color: white;
+    background-color:black;
 }
